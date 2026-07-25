@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://thepc101.github.io">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/pranav-c-70019b403/">LinkedIn</a> ·
+  
   <a href="mailto:medisummarize@gmail.com">Email</a>
 </p>
 
@@ -25,8 +25,7 @@
 ### 🛠️ Also building
 
 - **Client work** — automation, team/company hubs, work trackers, and bespoke internal tools.
-- **CodeStarters** — Head of AI & Events: bootcamps, hackathons, and curriculum. → [codestarters.org](https://codestarters.org)
-- **One Sphere Array** — Managing Director, software for social impact. → [osa.ngo](https://osa.ngo)
+
 
 ### 🧰 Tech
 
