@@ -1,16 +1,40 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Pranav 👋</h1>
 
-<!--
-**thepc101/thepc101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Student founder building <b>AI that actually helps people</b> — across education, healthcare, and wellbeing.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://thepc101.github.io">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/pranav-c-70019b403/">LinkedIn</a> ·
+  <a href="mailto:medisummarize@gmail.com">Email</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Projects
+
+| Project | What it is | Link |
+| --- | --- | --- |
+| **Publick** | AI college counselor guiding students through applications | [publick.app](https://publick.app) |
+| **Aurelia** | AI mood tracker that helps people understand how they feel | [aureliamood.vercel.app](https://aureliamood.vercel.app) |
+| **Medisummarize** | AI healthcare assistant that helps patients prep for appointments | [medisummarize-alpha.vercel.app](https://medisummarize-alpha.vercel.app) |
+| **Futurely** | Educational platform for smarter test & assignment prep | [futurely.lovable.app](https://futurely.lovable.app) |
+| **StudyCluster** | Student collaboration platform — no one studies alone | [studycluster.lovable.app](https://studycluster.lovable.app) |
+
+### 🛠️ Also building
+
+- **Client work** — automation, team/company hubs, work trackers, and bespoke internal tools.
+- **CodeStarters** — Head of AI & Events: bootcamps, hackathons, and curriculum. → [codestarters.org](https://codestarters.org)
+- **One Sphere Array** — Managing Director, software for social impact. → [osa.ngo](https://osa.ngo)
+
+### 🧰 Tech
+
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572b6?style=flat&logo=css3&logoColor=white)
+![AI](https://img.shields.io/badge/AI%20Integration-2f43e0?style=flat)
+
+---
+
+<p align="center"><i>Made with intent, not templates.</i></p>
