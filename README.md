@@ -29,10 +29,15 @@
 
 ### 🧰 Tech
 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61dafb)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38bdf8?style=flat&logo=tailwindcss&logoColor=white)
+![TanStack](https://img.shields.io/badge/TanStack-ff4154?style=flat&logo=reactquery&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646cff?style=flat&logo=vite&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5fa04e?style=flat&logo=nodedotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572b6?style=flat&logo=css3&logoColor=white)
-![AI](https://img.shields.io/badge/AI%20Integration-2f43e0?style=flat)
 
 ---
 
