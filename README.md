@@ -5,8 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://thepc101.github.io">Portfolio</a> ·
-  
+  <a href="https://thepc101.github.io">Portfolio</a>
   <a href="mailto:medisummarize@gmail.com">Email</a>
 </p>
 
