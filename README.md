@@ -20,6 +20,7 @@
 | **Medisummarize** | AI healthcare assistant that helps patients prep for appointments | [medisummarize-alpha.vercel.app](https://medisummarize-alpha.vercel.app) |
 | **Futurely** | Educational platform for smarter test & assignment prep | [futurely.lovable.app](https://futurely.lovable.app) |
 | **StudyCluster** | Student collaboration platform — no one studies alone | [studycluster.lovable.app](https://studycluster.lovable.app) |
+| **Probe** | Bug fixing, done easy |
 
 ### 🛠️ Also building
 
