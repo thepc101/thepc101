@@ -21,7 +21,7 @@
 | **Futurely** | Educational platform for smarter test & assignment prep | [futurely.lovable.app](https://futurely.lovable.app) |
 | **StudyCluster** | Student collaboration platform — no one studies alone | [studycluster.lovable.app](https://studycluster.lovable.app) |
 | **Probe** | Bug fixing, done easy |
-| **Grauque** | Free BYOK LLM with image support, studying tools (flashcards + quiz, etc), and KaTex | [Grauque](https://grauque.vercel.app) |
+| **Grauque** | Free BYOK LLM with image support, studying tools (flashcards + quiz, etc), and KaTex. Native Mac App with live popup AI | [Grauque](https://grauque.vercel.app) |
 
 ### 🛠️ Also building
 
