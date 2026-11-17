@@ -1,27 +1,27 @@
 <div align="center">
 
 <!-- ======================= HEADER ANIMATION ======================= -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11,18,28,34,45&height=240&section=header&text=Hey%20there,%20I'm%20Pranav%20👋&fontSize=48&fontAlignY=36&fontColor=ffffff&desc=Student%20Founder%20%7C%20AI%20Product%20Engineer%20%7C%20Full-Stack%20Builder&descFontSize=18&descAlignY=60&descAlign=50" width="100%" alt="Pranav's Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11,18,28,34,45&height=240&section=header&text=Hey%20there,%20I'm%20Pranav%20👋&fontSize=48&fontAlignY=36&fontColor=ffffff&desc=Student%20Founder%20%7C%20AI%20Engineer%20%7C%20Robotics%20%26%20Full-Stack%20Builder&descFontSize=18&descAlignY=60&descAlign=50" width="100%" alt="Pranav's Header" />
 
 <!-- ======================= DYNAMIC TYPING BANNER ======================= -->
-<a href="https://thepc.is-a.dev" target="_blank">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1400&color=818CF8&center=true&vCenter=true&width=620&lines=Building+AI+that+actually+solves+real+human+problems;Empowering+students+in+education+%26+admissions;Reimagining+healthcare+prep+%26+mental+wellbeing;Crafting+bespoke+internal+tools+%26+native+apps;Made+with+intent%2C+never+templates." alt="Typing Animation" />
+<a href="https://thepc101.github.io" target="_blank">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1400&color=818CF8&center=true&vCenter=true&width=680&lines=Building+AI+that+actually+solves+real+human+problems;Full-stack+engineer%2C+robotics+builder+%26+student+founder;Shipping+across+Education%2C+Healthcare+%26+Mental+Wellbeing;Hacking+hardware+with+Raspberry+Pi%2C+Arduino+%26+OpenCV;Made+with+intent%2C+never+templates." alt="Typing Animation" />
 </a>
 
 <br/>
 
-<!-- ======================= CONNECT BUTTONS ======================= -->
+<!-- ======================= CONNECT BUTTONS WITH ICONS ======================= -->
 <p align="center">
-  <a href="https://thepc.is-a.dev" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-thepc101.github.io-4F46E5?style=for-the-badge" alt="Portfolio" />
+  <a href="https://thepc101.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-thepc101.github.io-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   &nbsp;
   <a href="mailto:medisummarize@gmail.com">
-    <img src="https://img.shields.io/badge/✉️_Email-medisummarize@gmail.com-EC4899?style=for-the-badge" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-medisummarize%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
   <a href="https://github.com/thepc101">
-    <img src="https://img.shields.io/badge/⚡_GitHub-@thepc101-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-@thepc101-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
@@ -33,7 +33,7 @@
 <br/>
 
 <!-- ======================= FOUNDER TERMINAL ======================= -->
-### ⚡ About Me
+### ⚡ Executive Profile
 
 ```bash
 pranav@founder-box:~$ neofetch --profile
@@ -42,13 +42,13 @@ pranav@founder-box:~$ neofetch --profile
 ```yaml
 identity:
   name: Pranav
-  role: Student Founder & Applied AI Engineer
-  mission: "Building software that replaces noise with tangible human utility."
-  primary_focus: [Healthcare, Education, Emotional Wellbeing, Internal Tooling]
+  role: Student Founder, Applied AI & Robotics Engineer
+  mission: "Building software and hardware that replaces friction with real human utility."
+  primary_focus: [Healthcare, Education, Robotics & Embedded, Emotional Wellbeing, Internal Tooling]
 
 current_status:
-  shipping: "6+ production AI products, web apps, and native tools"
-  open_for: "Client consulting, bespoke internal tooling, AI automation"
+  shipping: "6+ production AI products, native tools, and embedded robotics prototypes"
+  open_for: "Client consulting, AI automation, bespoke tools & robotics collaborations"
   core_philosophy: "Made with intent, not templates."
 ```
 
@@ -131,47 +131,90 @@ I design and build end-to-end bespoke software for businesses and teams looking 
 
 <div align="center">
 
-<!-- Animated Interactive Skill Icons -->
+<!-- Interactive Skill Icons Grid (22 Icons Perfectly Centered) -->
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,tailwind,vite,nextjs,nodejs,postgres,html,css,git,vercel&perline=12" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=ts,js,py,java,cpp,c,html,css,react,nextjs,tailwind,vite,nodejs,postgres,raspberrypi,arduino,opencv,linux,ubuntu,git,docker,vercel&perline=11" alt="Tech Stack Ribbon" />
 </a>
 
 <br/><br/>
 
 </div>
 
-| Layer | Technologies & Frameworks |
-| :--- | :--- |
-| **Languages** | `TypeScript` `JavaScript (ES6+)` `HTML5` `CSS3` |
-| **Frontend Architecture** | `React` `Tailwind CSS` `TanStack Query` `Vite` `Next.js` |
-| **Runtime & Backend** | `Node.js` `RESTful APIs` `PostgreSQL` |
-| **AI & LLM Integration** | `Groq Cloud (LPU)` `OpenAI API` `Anthropic API` `KaTeX Rendering` `BYOK Systems` |
-| **Tooling & Cloud** | `Git` `GitHub Actions` `Vercel` `macOS Native Tooling` |
+#### 💻 Core Programming Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+#### 🤖 Robotics, Hardware & Embedded Systems
+<p align="left">
+  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+  <img src="https://img.shields.io/badge/IoT_&_Sensors-2496ED?style=for-the-badge&logo=espressif&logoColor=white" alt="IoT" />
+  <img src="https://img.shields.io/badge/Robotics_Control-10B981?style=for-the-badge&logo=micro-strategy&logoColor=white" alt="Robotics Control" />
+</p>
+
+#### 🌐 Frontend & Web Engineering
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="TanStack" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+</p>
+
+#### 🧠 Backend, AI & Cloud Infrastructure
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Groq_Cloud-F55036?style=for-the-badge&logo=fastapi&logoColor=white" alt="Groq" />
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+</p>
 
 ---
 
-### 📊 Live GitHub Telemetry
+### 📊 Live GitHub Telemetry & Activity
 
 <div align="center">
 
+<!-- Dual Metrics: Profile Statistics & Live Streak Tracker -->
 <table border="0" style="border: none;">
   <tr style="border: none;">
     <td align="center" style="border: none;">
       <a href="https://github.com/thepc101">
-        <img src="https://github-readme-stats.vercel.app/api?username=thepc101&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D1117&title_color=818CF8&text_color=94A3B8&icon_color=38BDF8" height="165" alt="GitHub Stats" />
+        <img src="https://github-stats-extended.vercel.app/api?username=thepc101&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D1117&title_color=818CF8&text_color=94A3B8&icon_color=38BDF8" height="165" alt="GitHub Stats" />
       </a>
     </td>
     <td align="center" style="border: none;">
       <a href="https://github.com/thepc101">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=thepc101&theme=tokyonight&hide_border=true&border_radius=12&background=0D1117&ring=818CF8&fire=F43F5E&currStreakLabel=38BDF8" height="165" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com/?user=thepc101&theme=tokyonight&hide_border=true&border_radius=12&background=0D1117&ring=818CF8&fire=F43F5E&currStreakLabel=38BDF8" height="165" alt="GitHub Streak" />
       </a>
     </td>
   </tr>
 </table>
 
+<br/>
+
 <!-- Top Languages Card -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thepc101&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D1117&title_color=818CF8&text_color=94A3B8" height="140" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=thepc101&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D1117&title_color=818CF8&text_color=94A3B8" height="140" alt="Top Languages" />
+</p>
+
+<!-- Live 30-Day Contribution Activity Curve Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thepc101&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=818CF8&line=38BDF8&point=F43F5E" width="95%" alt="Contribution Graph" />
 </p>
 
 </div>
