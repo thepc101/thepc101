@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11,18,28,34,45&height=240&section=header&text=Hey%20there,%20I'm%20Pranav%20👋&fontSize=48&fontAlignY=36&fontColor=ffffff&desc=Student%20Founder%20%7C%20AI%20Product%20Engineer%20%7C%20Full-Stack%20Builder&descFontSize=18&descAlignY=60&descAlign=50" width="100%" alt="Pranav's Header" />
 
 <!-- ======================= DYNAMIC TYPING BANNER ======================= -->
-<a href="https://thepc101.github.io" target="_blank">
+<a href="https://thepc.is-a.dev" target="_blank">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1400&color=818CF8&center=true&vCenter=true&width=620&lines=Building+AI+that+actually+solves+real+human+problems;Empowering+students+in+education+%26+admissions;Reimagining+healthcare+prep+%26+mental+wellbeing;Crafting+bespoke+internal+tools+%26+native+apps;Made+with+intent%2C+never+templates." alt="Typing Animation" />
 </a>
 
