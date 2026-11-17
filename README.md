@@ -12,7 +12,7 @@
 
 <!-- ======================= CONNECT BUTTONS ======================= -->
 <p align="center">
-  <a href="https://thepc101.github.io" target="_blank">
+  <a href="https://thepc.is-a.dev" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Portfolio-thepc101.github.io-4F46E5?style=for-the-badge" alt="Portfolio" />
   </a>
   &nbsp;
