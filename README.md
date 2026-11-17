@@ -1,14 +1,22 @@
 <div align="center">
 
-<!-- ======================= HEADER ANIMATION ======================= -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11,18,28,34,45&height=240&section=header&text=Hey%20there,%20I'm%20Pranav%20👋&fontSize=48&fontAlignY=36&fontColor=ffffff&desc=Student%20Founder%20%7C%20AI%20Engineer%20%7C%20Robotics%20%26%20Full-Stack%20Builder&descFontSize=18&descAlignY=60&descAlign=50" width="100%" alt="Pranav's Header" />
+<!-- ======================= MIDNIGHT TOKYO CITY BANNER ======================= -->
+<!-- Option 1 (Default): Animated Vector Midnight Tokyo Skyline (Zero load time, infinite resolution) -->
+<a href="https://thepc101.github.io" target="_blank">
+  <img src="./banner.svg" width="100%" alt="Midnight Tokyo City Banner - Pranav" />
+</a>
+
+<!-- Option 2: Cinematic Anime Midnight Tokyo Wallpaper (To use this instead, uncomment below): -->
+<!-- <a href="https://thepc101.github.io" target="_blank"><img src="./tokyo_midnight_banner_wide.jpg" width="100%" alt="Tokyo Midnight Skyline" /></a> -->
+
+<br/><br/>
 
 <!-- ======================= DYNAMIC TYPING BANNER ======================= -->
 <a href="https://thepc101.github.io" target="_blank">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1400&color=818CF8&center=true&vCenter=true&width=680&lines=Building+AI+that+actually+solves+real+human+problems;Full-stack+engineer%2C+robotics+builder+%26+student+founder;Shipping+across+Education%2C+Healthcare+%26+Mental+Wellbeing;Hacking+hardware+with+Raspberry+Pi%2C+Arduino+%26+OpenCV;Made+with+intent%2C+never+templates." alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1400&color=818CF8&center=true&vCenter=true&width=700&lines=Building+AI+that+actually+solves+real+human+problems;Full-stack+engineer%2C+robotics+builder+%26+student+founder;Shipping+from+the+midnight+lab+across+Health%2C+Ed+%26+Wellbeing;Hacking+hardware+with+Raspberry+Pi%2C+Arduino+%26+OpenCV;Zero+fluff.+High+utility.+Made+with+intent." alt="Typing Animation" />
 </a>
 
-<br/>
+<br/><br/>
 
 <!-- ======================= CONNECT BUTTONS WITH ICONS ======================= -->
 <p align="center">
@@ -25,24 +33,22 @@
   </a>
 </p>
 
-<!-- Animated Gradient Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3px" alt="Divider" />
-
 </div>
 
-<br/>
+---
 
 <!-- ======================= FOUNDER TERMINAL ======================= -->
 ### ⚡ Executive Profile
 
 ```bash
-pranav@founder-box:~$ neofetch --profile
+pranav@tokyo-midnight-box:~$ neofetch --profile
 ```
 
 ```yaml
 identity:
-  name: Pranav
+  name: Pranav (プラナフ)
   role: Student Founder, Applied AI & Robotics Engineer
+  vibe: "Midnight Tokyo Lab • Deep work, hardware hacking & shipping impactful AI"
   mission: "Building software and hardware that replaces friction with real human utility."
   primary_focus: [Healthcare, Education, Robotics & Embedded, Emotional Wellbeing, Internal Tooling]
 
@@ -223,12 +229,14 @@ I design and build end-to-end bespoke software for businesses and teams looking 
 
 <div align="center">
 
-<!-- Animated Bottom Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11,18,28,34,45&height=120&section=footer" width="100%" alt="Footer Banner" />
+### *"Made with intent, not templates."*
 
 <p align="center">
-  <b>Made with intent, not templates.</b><br/>
-  <sub>© Pranav • <a href="https://thepc101.github.io">thepc101.github.io</a></sub>
+  <a href="https://thepc101.github.io">Portfolio</a> &nbsp;•&nbsp; 
+  <a href="mailto:medisummarize@gmail.com">Contact</a> &nbsp;•&nbsp; 
+  <a href="https://github.com/thepc101">GitHub</a>
 </p>
+
+<sub>© Pranav • 東京 // 深夜開発室 (Tokyo Midnight Lab)</sub>
 
 </div>

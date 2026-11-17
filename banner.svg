@@ -1,0 +1,251 @@
+<svg width="100%" height="340" viewBox="0 0 1200 340" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Midnight Tokyo Sky Gradient -->
+    <linearGradient id="tokyoSky" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#05070E"/>
+      <stop offset="45%" stop-color="#0B1021"/>
+      <stop offset="80%" stop-color="#1A153B"/>
+      <stop offset="100%" stop-color="#2D124D"/>
+    </linearGradient>
+
+    <!-- Neon Atmospheric Glow -->
+    <radialGradient id="horizonGlow" cx="50%" cy="100%" r="60%">
+      <stop offset="0%" stop-color="#EC4899" stop-opacity="0.35"/>
+      <stop offset="40%" stop-color="#8B5CF6" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#05070E" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="tokyoTowerGlow" cx="280" cy="180" r="160" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#FF385C" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#FF385C" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Neon Glow Filter -->
+    <filter id="neonCyan" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <filter id="neonPink" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="4" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <style>
+    .star { fill: #FFFFFF; }
+    .neon-text-title {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Hiragino Kaku Gothic ProN', sans-serif;
+      font-size: 46px;
+      font-weight: 900;
+      letter-spacing: 2px;
+      fill: #FFFFFF;
+    }
+    .neon-kanji {
+      font-family: 'Hiragino Kaku Gothic ProN', 'Noto Sans JP', sans-serif;
+      font-size: 14px;
+      font-weight: 700;
+      letter-spacing: 4px;
+      fill: #38BDF8;
+    }
+    .tagline {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, monospace;
+      font-size: 14px;
+      font-weight: 600;
+      letter-spacing: 1.5px;
+      fill: #C4B5FD;
+    }
+    .pill-label {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 1px;
+    }
+  </style>
+
+  <!-- Sky Canvas -->
+  <rect width="1200" height="340" fill="url(#tokyoSky)"/>
+  <rect width="1200" height="340" fill="url(#horizonGlow)"/>
+
+  <!-- Distant Twinkling Stars -->
+  <g>
+    <circle cx="80" cy="40" r="1.2" class="star" opacity="0.6">
+      <animate attributeName="opacity" values="0.3;0.9;0.3" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="210" cy="70" r="1.5" class="star" opacity="0.8">
+      <animate attributeName="opacity" values="0.8;0.2;0.8" dur="4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="390" cy="35" r="1" class="star" opacity="0.5"/>
+    <circle cx="540" cy="80" r="1.5" class="star" opacity="0.7">
+      <animate attributeName="opacity" values="0.4;1;0.4" dur="2.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="720" cy="45" r="1.2" class="star" opacity="0.9"/>
+    <circle cx="880" cy="65" r="1" class="star" opacity="0.4">
+      <animate attributeName="opacity" values="0.2;0.8;0.2" dur="3.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1020" cy="30" r="1.4" class="star" opacity="0.8"/>
+    <circle cx="1130" cy="85" r="1.2" class="star" opacity="0.5"/>
+  </g>
+
+  <!-- Tokyo Tower Glow & Silhouette -->
+  <circle cx="280" cy="180" r="140" fill="url(#tokyoTowerGlow)"/>
+  <g transform="translate(250, 100)" stroke="#FF385C" stroke-width="1.8" opacity="0.85">
+    <!-- Tower Spire -->
+    <line x1="30" y1="0" x2="30" y2="45"/>
+    <circle cx="30" cy="0" r="2.5" fill="#FF1E44">
+      <animate attributeName="opacity" values="1;0.2;1" dur="1.2s" repeatCount="indefinite"/>
+    </circle>
+    <!-- Tower Legs & Cross Beams -->
+    <line x1="30" y1="45" x2="10" y2="170"/>
+    <line x1="30" y1="45" x2="50" y2="170"/>
+    <line x1="22" y1="80" x2="38" y2="80"/>
+    <line x1="17" y1="115" x2="43" y2="115"/>
+    <line x1="12" y1="145" x2="48" y2="145"/>
+    <!-- Observation Deck -->
+    <rect x="20" y="70" width="20" height="8" rx="2" fill="#FF385C"/>
+  </g>
+
+  <!-- Layer 1: Distant City Silhouette -->
+  <g fill="#0B1026" opacity="0.7">
+    <rect x="0" y="210" width="90" height="130"/>
+    <rect x="100" y="190" width="70" height="150"/>
+    <rect x="180" y="230" width="60" height="110"/>
+    <rect x="330" y="180" width="85" height="160"/>
+    <rect x="430" y="220" width="65" height="120"/>
+    <rect x="750" y="170" width="80" height="170"/>
+    <rect x="850" y="210" width="75" height="130"/>
+    <rect x="940" y="195" width="90" height="145"/>
+    <rect x="1050" y="175" width="80" height="165"/>
+    <rect x="1140" y="215" width="60" height="125"/>
+  </g>
+
+  <!-- Layer 2: Midground Skyscrapers with Neon Windows -->
+  <g fill="#0E1433">
+    <!-- Skyscraper Left A -->
+    <rect x="40" y="160" width="75" height="180" rx="3" stroke="#1E2958" stroke-width="1"/>
+    <line x1="77" y1="130" x2="77" y2="160" stroke="#38BDF8" stroke-width="2"/>
+    <circle cx="77" cy="130" r="2.5" fill="#EF4444">
+      <animate attributeName="opacity" values="1;0.1;1" dur="1.5s" repeatCount="indefinite"/>
+    </circle>
+    <!-- Windows -->
+    <g fill="#38BDF8" opacity="0.65">
+      <rect x="52" y="180" width="6" height="4"/>
+      <rect x="66" y="180" width="6" height="4"/>
+      <rect x="80" y="180" width="6" height="4"/>
+      <rect x="52" y="195" width="6" height="4"/>
+      <rect x="94" y="195" width="6" height="4" fill="#F43F5E"/>
+      <rect x="66" y="210" width="6" height="4"/>
+      <rect x="80" y="210" width="6" height="4"/>
+      <rect x="52" y="225" width="6" height="4"/>
+      <rect x="94" y="225" width="6" height="4"/>
+    </g>
+
+    <!-- Skyscraper Left B -->
+    <rect x="130" y="130" width="90" height="210" rx="3" stroke="#251A4A" stroke-width="1"/>
+    <line x1="175" y1="105" x2="175" y2="130" stroke="#A855F7" stroke-width="2"/>
+    <circle cx="175" cy="105" r="2.5" fill="#EF4444">
+      <animate attributeName="opacity" values="1;0.1;1" dur="1.8s" repeatCount="indefinite"/>
+    </circle>
+    <!-- Windows -->
+    <g fill="#A855F7" opacity="0.7">
+      <rect x="145" y="150" width="8" height="5"/>
+      <rect x="160" y="150" width="8" height="5" fill="#FBBF24"/>
+      <rect x="190" y="150" width="8" height="5"/>
+      <rect x="145" y="170" width="8" height="5"/>
+      <rect x="175" y="170" width="8" height="5"/>
+      <rect x="190" y="170" width="8" height="5"/>
+      <rect x="160" y="190" width="8" height="5"/>
+      <rect x="175" y="190" width="8" height="5"/>
+    </g>
+
+    <!-- Skyscraper Right A -->
+    <rect x="990" y="120" width="85" height="220" rx="3" stroke="#1E2958" stroke-width="1"/>
+    <line x1="1032" y1="90" x2="1032" y2="120" stroke="#06B6D4" stroke-width="2"/>
+    <circle cx="1032" cy="90" r="2.5" fill="#EF4444">
+      <animate attributeName="opacity" values="1;0.1;1" dur="1.3s" repeatCount="indefinite"/>
+    </circle>
+    <!-- Windows -->
+    <g fill="#38BDF8" opacity="0.6">
+      <rect x="1005" y="140" width="7" height="5"/>
+      <rect x="1025" y="140" width="7" height="5"/>
+      <rect x="1045" y="140" width="7" height="5"/>
+      <rect x="1005" y="160" width="7" height="5" fill="#F43F5E"/>
+      <rect x="1045" y="160" width="7" height="5"/>
+      <rect x="1025" y="180" width="7" height="5"/>
+      <rect x="1045" y="180" width="7" height="5"/>
+    </g>
+
+    <!-- Skyscraper Right B (Tower with Japanese Kanji Neon) -->
+    <rect x="1090" y="150" width="80" height="190" rx="3" stroke="#311E52" stroke-width="1"/>
+    <!-- Vertical Neon Sign: 未来 (Future) -->
+    <g transform="translate(1120, 175)" filter="url(#neonPink)">
+      <rect x="-8" y="-5" width="26" height="55" rx="4" fill="#0A051A" stroke="#EC4899" stroke-width="1.5"/>
+      <text x="5" y="17" fill="#F472B6" font-size="14" font-weight="900" text-anchor="middle">未</text>
+      <text x="5" y="38" fill="#F472B6" font-size="14" font-weight="900" text-anchor="middle">来</text>
+    </g>
+  </g>
+
+  <!-- Foreground Atmospheric Glass Deck / Command Bridge -->
+  <g transform="translate(240, 45)">
+    <!-- Glass Shield Card -->
+    <rect width="720" height="230" rx="20" fill="#090D1C" fill-opacity="0.82" stroke="#4338CA" stroke-width="1.5" stroke-opacity="0.45"/>
+    
+    <!-- Top Cyber Accent Line -->
+    <line x1="40" y1="0" x2="680" y2="0" stroke="url(#tokyoSky)" stroke-width="3"/>
+    
+    <!-- Neon Top Indicator: 東京 • MIDNIGHT LAB -->
+    <g transform="translate(40, 36)">
+      <circle cx="5" cy="5" r="4" fill="#38BDF8">
+        <animate attributeName="opacity" values="1;0.4;1" dur="2s" repeatCount="indefinite"/>
+      </circle>
+      <text x="22" y="9" class="neon-kanji" fill="#38BDF8">TOKYO // 深夜開発室 • MIDNIGHT LAB</text>
+    </g>
+
+    <!-- Main Title: PRANAV // プラナフ -->
+    <g transform="translate(40, 96)">
+      <text x="0" y="0" class="neon-text-title" filter="url(#neonCyan)">PRANAV</text>
+      <text x="215" y="-3" font-family="'Hiragino Kaku Gothic ProN', sans-serif" font-size="22" font-weight="700" fill="#818CF8" letter-spacing="4px">プラナフ</text>
+    </g>
+
+    <!-- Subtitle / Mission -->
+    <g transform="translate(40, 134)">
+      <text x="0" y="0" class="tagline">STUDENT FOUNDER • APPLIED AI &amp; ROBOTICS ENGINEER</text>
+      <text x="0" y="24" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="400" fill="#94A3B8">
+        Building high-utility software &amp; hardware with intent, not templates.
+      </text>
+    </g>
+
+    <!-- Aesthetic Cyber Pills -->
+    <g transform="translate(40, 185)">
+      <!-- Pill 1 -->
+      <g>
+        <rect width="130" height="28" rx="14" fill="#1E1B4B" stroke="#6366F1" stroke-width="1"/>
+        <text x="65" y="18" class="pill-label" fill="#C7D2FE" text-anchor="middle">⚡ SHIPPING AI</text>
+      </g>
+      <!-- Pill 2 -->
+      <g transform="translate(142, 0)">
+        <rect width="145" height="28" rx="14" fill="#0A2540" stroke="#0284C7" stroke-width="1"/>
+        <text x="72" y="18" class="pill-label" fill="#7DD3FC" text-anchor="middle">🤖 ROBOTICS / HW</text>
+      </g>
+      <!-- Pill 3 -->
+      <g transform="translate(299, 0)">
+        <rect width="135" height="28" rx="14" fill="#2E1065" stroke="#9333EA" stroke-width="1"/>
+        <text x="67" y="18" class="pill-label" fill="#E9D5FF" text-anchor="middle">🩺 HEALTH &amp; ED</text>
+      </g>
+      <!-- Pill 4 -->
+      <g transform="translate(446, 0)">
+        <rect width="170" height="28" rx="14" fill="#1C1917" stroke="#44403C" stroke-width="1"/>
+        <text x="85" y="18" class="pill-label" fill="#D6D3D1" text-anchor="middle">⛩️ TOKYO NIGHT VIBE</text>
+      </g>
+    </g>
+  </g>
+
+  <!-- Bottom Cyber Edge -->
+  <line x1="0" y1="339" x2="1200" y2="339" stroke="#312E81" stroke-width="2"/>
+</svg>
